@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/paint.dir/main.c.o CMakeFiles/paint.dir/canvas.c.o CMakeFiles/paint.dir/draw.c.o CMakeFiles/paint.dir/command.c.o CMakeFiles/paint.dir/inputValidation.c.o  -o paint 
